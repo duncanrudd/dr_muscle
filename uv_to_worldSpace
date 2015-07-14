@@ -1,5 +1,5 @@
 ################
-
+## code taken from https://groups.google.com/forum/#!topic/python_inside_maya/AOjlf7YtGZ8
 ################
 
 import maya.OpenMaya as om
